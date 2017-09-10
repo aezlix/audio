@@ -1,1 +1,3 @@
-mm12
+module.exports = {    
+  extends: ['scratch', 'scratch/node']
+};
